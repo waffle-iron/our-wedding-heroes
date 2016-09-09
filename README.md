@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/InsidersByte/our-wedding-heroes.png?label=ready&title=Ready)](https://waffle.io/InsidersByte/our-wedding-heroes)
 # our-wedding-heroes
 
 [![Build Status](https://travis-ci.org/InsidersByte/our-wedding-heroes.svg)](https://travis-ci.org/InsidersByte/our-wedding-heroes)
